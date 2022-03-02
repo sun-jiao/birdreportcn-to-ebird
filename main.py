@@ -153,10 +153,10 @@ if __name__ == '__main__':
                 allow2 = input('是否写入软件信息（Y：写入，N：不写入）：')
                 while True:
                     if allow2 == 'Y':
-                        bool1 = True
+                        bool2 = True
                         break
                     elif allow2 == 'N':
-                        bool1 = False
+                        bool2 = False
                         break
                     else:
                         allow2 = input('输入内容不符，请重新输入（Y：写入，N：不写入）：')
