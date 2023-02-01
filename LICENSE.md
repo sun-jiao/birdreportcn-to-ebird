@@ -11,7 +11,7 @@ world, love everyone around you.
 
 And I love you too. 
 
-THE DEVELOPERs RESERVE THE RIGHT TO BE ANGRY IF YOU VIOLATE THE ABOVE CONDITIONS.
+THE DEVELOPERS RESERVE THE RIGHT TO BE ANGRY IF YOU VIOLATE THE ABOVE CONDITIONS.
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
